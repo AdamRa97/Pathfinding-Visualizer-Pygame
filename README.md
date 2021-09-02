@@ -1,5 +1,5 @@
 # Pathfinding-Visualizer-Pygame
-## Current Pathfinding Algorithm Implemented: A Star Algorithm
+## Current Pathfinding Algorithm Implemented: A\* Algorithm
 Functionalities
 - Left click to choose Start and End nodes
 - Hold Left Click and drag anywhere on the grid to create barriers after selecting Start and End nodes
